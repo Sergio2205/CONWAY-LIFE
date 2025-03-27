@@ -43,7 +43,7 @@ The project is developed in **JavaScript** and uses:
 
 ## Authors
 
-- **Author's Name** - [GitHub](https://github.com/user)
+- **Authors' Name** - [GitHub](https://github.com/Sergio2205)
 
 ## References
 
