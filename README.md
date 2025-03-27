@@ -6,7 +6,7 @@ This project is an implementation of **John Conway's Game of Life** using **p5.j
 
 The Game of Life is a cellular automaton that follows simple rules to simulate the evolution of a population in a grid. This project allows users to visualize and modify the game's state in real-time through an interactive browser interface.
 
-![Game Preview](path/to/image.png)
+![Game Preview](image.png)
 
 ## Technologies and Libraries
 
